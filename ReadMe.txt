@@ -6,4 +6,17 @@ Add to qbcore item.lua
 
 
 add the image to qb-inventory or the inventory u using in to image
-when u done that u add the item to ur Police armory and u could see a picture of a badge when u put it in ur hotbar it could start a animation and show ur badge with ur face pn it.
+
+when u done that u add the item to ur Police armory in config like this.
+
+        [1] = {
+            name = "specialbadge",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 18,
+            authorizedJobGrades = {0, 1, 2, 3, 4}
+        },
+
+and u could see a picture of a badge when u put it in ur hotbar it could start a animation and show ur badge with ur face on it. and other player will see it too.
