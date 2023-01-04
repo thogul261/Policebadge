@@ -19,4 +19,4 @@ when u done that u add the item to ur Police armory in config like this.
             authorizedJobGrades = {0, 1, 2, 3, 4}
         },
 
-and u could see a picture of a badge when u put it in ur hotbar it could start a animation and show ur badge with ur face on it. and other player will see it too.
+remeber to add it to the slot u want to use from 1 to whaver u wanna use and u could see a picture of a badge when u put it in ur hotbar it could start a animation and show ur badge with ur face on it. and other player will see it too.
