@@ -15,7 +15,7 @@ when u done that u add the item to ur Police armory in config like this.
             amount = 50,
             info = {},
             type = "item",
-            slot = 18,
+            slot = 1,
             authorizedJobGrades = {0, 1, 2, 3, 4}
         },
 
