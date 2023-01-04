@@ -6,3 +6,4 @@ Add to qbcore item.lua
 
 
 add the image to qb-inventory or the inventory u using in to image
+when u done that u add the item to ur armory and u could see a picture of a badge when u put it in ur hotbar it could start a animation and show ur badge with ur face pn it.
